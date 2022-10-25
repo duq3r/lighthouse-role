@@ -6,6 +6,7 @@ Role Name
 - Скачивание lighthouse из репозитория
 - Конфигурирование lighthouse
 
+
 Requirements
 ------------
 
