@@ -30,6 +30,7 @@ lighthouse_dir: /var/lib/lighthouse
 lighthouse_access_log_name: lighthouse_access
 ```
 
+
 Dependencies
 ------------
 
